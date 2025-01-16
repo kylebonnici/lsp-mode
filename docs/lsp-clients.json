@@ -250,6 +250,14 @@
     "debugger": "Yes"
   },
   {
+    "name": "dts",
+    "full-name": "Devicetree",
+    "server-name": "devicetree-language-server",
+    "server-url": "https://github.com/kylebonnici/dts-lsp/tree/main/server",
+    "installation": "npm install -g devicetree-language-server",
+    "debugger": "Not available"
+  },
+  {
     "name": "dhall",
     "full-name": "Dhall",
     "server-name": "dhall-lsp-server",
